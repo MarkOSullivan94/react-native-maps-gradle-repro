@@ -1,0 +1,4 @@
+#Tue May 29 16:14:05 BST 2018
+base.0=/Users/harry/Downloads/RNMapsGradleRepro/android/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main
+renamed.0=classes.dex
+file.0=/Users/harry/Downloads/RNMapsGradleRepro/android/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main/classes.dex
