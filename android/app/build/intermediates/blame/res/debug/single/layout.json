@@ -1,11 +1,15 @@
 [
     {
+        "merged": "/Users/harry/Downloads/RNMapsGradleRepro/android/app/build/intermediates/res/merged/debug/layout/notification_template_part_time.xml",
+        "source": "/Users/harry/Downloads/RNMapsGradleRepro/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/layout/notification_template_part_time.xml"
+    },
+    {
         "merged": "/Users/harry/Downloads/RNMapsGradleRepro/android/app/build/intermediates/res/merged/debug/layout/redbox_view.xml",
         "source": "/Users/harry/Downloads/RNMapsGradleRepro/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.55.4/res/layout/redbox_view.xml"
     },
     {
-        "merged": "/Users/harry/Downloads/RNMapsGradleRepro/android/app/build/intermediates/res/merged/debug/layout/notification_template_part_time.xml",
-        "source": "/Users/harry/Downloads/RNMapsGradleRepro/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/layout/notification_template_part_time.xml"
+        "merged": "/Users/harry/Downloads/RNMapsGradleRepro/android/app/build/intermediates/res/merged/debug/layout/amu_info_window.xml",
+        "source": "/Users/harry/Downloads/RNMapsGradleRepro/android/app/build/intermediates/exploded-aar/com.google.maps.android/android-maps-utils/0.5/res/layout/amu_info_window.xml"
     },
     {
         "merged": "/Users/harry/Downloads/RNMapsGradleRepro/android/app/build/intermediates/res/merged/debug/layout/abc_action_mode_bar.xml",
@@ -22,6 +26,10 @@
     {
         "merged": "/Users/harry/Downloads/RNMapsGradleRepro/android/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_radio.xml",
         "source": "/Users/harry/Downloads/RNMapsGradleRepro/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/layout/abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "/Users/harry/Downloads/RNMapsGradleRepro/android/app/build/intermediates/res/merged/debug/layout/amu_webview.xml",
+        "source": "/Users/harry/Downloads/RNMapsGradleRepro/android/app/build/intermediates/exploded-aar/com.google.maps.android/android-maps-utils/0.5/res/layout/amu_webview.xml"
     },
     {
         "merged": "/Users/harry/Downloads/RNMapsGradleRepro/android/app/build/intermediates/res/merged/debug/layout/notification_template_media.xml",
@@ -62,6 +70,10 @@
     {
         "merged": "/Users/harry/Downloads/RNMapsGradleRepro/android/app/build/intermediates/res/merged/debug/layout/abc_popup_menu_item_layout.xml",
         "source": "/Users/harry/Downloads/RNMapsGradleRepro/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/layout/abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "/Users/harry/Downloads/RNMapsGradleRepro/android/app/build/intermediates/res/merged/debug/layout/amu_text_bubble.xml",
+        "source": "/Users/harry/Downloads/RNMapsGradleRepro/android/app/build/intermediates/exploded-aar/com.google.maps.android/android-maps-utils/0.5/res/layout/amu_text_bubble.xml"
     },
     {
         "merged": "/Users/harry/Downloads/RNMapsGradleRepro/android/app/build/intermediates/res/merged/debug/layout/notification_template_big_media_narrow.xml",
