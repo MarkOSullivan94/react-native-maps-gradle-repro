@@ -6,8 +6,7 @@ The following steps were performed to test the build behavior:
 
 (You can click on each line item to verify the changes in each step. I have not modified the .gitignore file to remove intermediate build files.)
 
-1.  [Create the project.](commit/936d311)
-
+1.  [Create the project.](https://github.com/lachenmayer/react-native-maps-gradle-repro/commit/936d311)
 
 ```
 create-react-native-app RNMapsGradleRepro
@@ -15,30 +14,26 @@ cd RNMapsGradleRepro
 yarn eject
 ```
 
-2.  [Attempt building - successful.](commit/62d60fa)
-
+2.  [Attempt building - successful.](https://github.com/lachenmayer/react-native-maps-gradle-repro/commit/62d60fa)
 
 ```
 yarn android
 ```
 
-3.  [Add react-native-maps dependency.](commit/bcb741f)
-
+3.  [Add react-native-maps dependency.](https://github.com/lachenmayer/react-native-maps-gradle-repro/commit/bcb741f)
 
 ```
 yarn add react-native-maps
 ```
 
-4.  [Ran `react-native link`](commit/b08f546)
-
+4.  [Ran `react-native link`](https://github.com/lachenmayer/react-native-maps-gradle-repro/commit/b08f546)
 
 ```
 react-native link
 git checkout -- ios/ # remove irrelevant iOS changes (also broken)
 ```
 
-5.  [Attempt building - **unsuccessful**](commit/b08f546)
-
+5.  [Attempt building - **unsuccessful**](https://github.com/lachenmayer/react-native-maps-gradle-repro/commit/b08f546)
 
 ```
 yarn android
@@ -77,13 +72,13 @@ https://facebook.github.io/react-native/docs/getting-started.html
 ✨  Done in 13.20s.
 ```
 
-6.  [Replace `react-native-maps` dependency with one that reverts #2096.](commit/5054d02)
+6.  [Replace `react-native-maps` dependency with one that reverts #2096.](https://github.com/lachenmayer/react-native-maps-gradle-repro/commit/5054d02)
 
 I manually edited `package.json` to point to this commit: https://github.com/mlisik/react-native-maps/commit/0705ba1c5820f453bcec29c8227fd0bd1e93171f
 
 This step could just as easily have been done using [patch-package](https://npm.im/patch-package), but this was quicker.
 
-7.  [Attempt building - **successful**](commit/5054d02)
+7.  [Attempt building - **successful**](https://github.com/lachenmayer/react-native-maps-gradle-repro/commit/5054d02)
 
 Reverting the pull request fixes the build.
 
