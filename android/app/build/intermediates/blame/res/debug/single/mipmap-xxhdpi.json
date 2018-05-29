@@ -1,5 +1,9 @@
 [
     {
+        "merged": "/Users/mos/Projects/ReactNative/react-native-maps-gradle-repro/android/app/build/intermediates/res/merged/debug/mipmap-xxhdpi/ic_launcher.png",
+        "source": "/Users/mos/Projects/ReactNative/react-native-maps-gradle-repro/android/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
         "merged": "/Users/harry/Downloads/RNMapsGradleRepro/android/app/build/intermediates/res/merged/debug/mipmap-xxhdpi/ic_launcher.png",
         "source": "/Users/harry/Downloads/RNMapsGradleRepro/android/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"
     }

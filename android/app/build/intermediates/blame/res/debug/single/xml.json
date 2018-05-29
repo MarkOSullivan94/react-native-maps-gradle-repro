@@ -2,5 +2,9 @@
     {
         "merged": "/Users/harry/Downloads/RNMapsGradleRepro/android/app/build/intermediates/res/merged/debug/xml/preferences.xml",
         "source": "/Users/harry/Downloads/RNMapsGradleRepro/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.55.4/res/xml/preferences.xml"
+    },
+    {
+        "merged": "/Users/mos/Projects/ReactNative/react-native-maps-gradle-repro/android/app/build/intermediates/res/merged/debug/xml/preferences.xml",
+        "source": "/Users/mos/Projects/ReactNative/react-native-maps-gradle-repro/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.55.4/res/xml/preferences.xml"
     }
 ]

@@ -3,246 +3,246 @@
 
     <item
         is-multidex="false"
-        jar="/Users/harry/Downloads/RNMapsGradleRepro/android/app/build/intermediates/exploded-aar/com.facebook.soloader/soloader/0.1.0/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="23.0.1"
-        sha1="8f615bca00639150c9eb6175d4b5471193f70794">
-        <dex dex="/Users/harry/Downloads/RNMapsGradleRepro/android/app/build/intermediates/pre-dexed/debug/com.facebook.soloader-soloader-0.1.0_b1dd023318ad72d10237ced9dc3618209470b02e.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/harry/.gradle/caches/modules-2/files-2.1/com.facebook.fbui.textlayoutbuilder/staticlayout-proxy/1.0/f162442a19fff13995fbd51ba414d9ee05579080/staticlayout-proxy-1.0.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="23.0.1"
-        sha1="f162442a19fff13995fbd51ba414d9ee05579080">
-        <dex dex="/Users/harry/Downloads/RNMapsGradleRepro/android/app/build/intermediates/pre-dexed/debug/staticlayout-proxy-1.0_56160730ed15fcbcec141048b3f6af5827fd8d7a.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/harry/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/3.0.0/5871fb60dc68d67da54a663c3fd636a10a532948/jsr305-3.0.0.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="23.0.1"
-        sha1="5871fb60dc68d67da54a663c3fd636a10a532948">
-        <dex dex="/Users/harry/Downloads/RNMapsGradleRepro/android/app/build/intermediates/pre-dexed/debug/jsr305-3.0.0_7d6ffb81aee83ded37571c377a366c7f1cc060ad.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/harry/Downloads/RNMapsGradleRepro/android/app/build/intermediates/exploded-aar/com.facebook.fbui.textlayoutbuilder/textlayoutbuilder/1.0.0/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="23.0.1"
-        sha1="f90b593491e4044903f0bbf68dc3fa2790b151b9">
-        <dex dex="/Users/harry/Downloads/RNMapsGradleRepro/android/app/build/intermediates/pre-dexed/debug/com.facebook.fbui.textlayoutbuilder-textlayoutbuilder-1.0.0_c981c10ec79636186400350d7cecd9a41625d8ff.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/harry/Downloads/RNMapsGradleRepro/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/10.2.4/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="23.0.1"
-        sha1="5803db663655ef5cb38c6bcb17ba326fdb9edfbd">
-        <dex dex="/Users/harry/Downloads/RNMapsGradleRepro/android/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-tasks-10.2.4_b0002116dccad924a1f501873f3f01e04c5fbf12.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/harry/Downloads/RNMapsGradleRepro/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="23.0.1"
-        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
-        <dex dex="/Users/harry/Downloads/RNMapsGradleRepro/android/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.0.1_ae2fe1d32740e7130e7211a8e0f1c92ad77daadd.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/harry/Downloads/RNMapsGradleRepro/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="23.0.1"
-        sha1="2f7e6e2dad1bccaf68a8820820adc6c0d5b96d37">
-        <dex dex="/Users/harry/Downloads/RNMapsGradleRepro/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-24.0.0_9862c333fd03838b58bc66404cc6563869c223f3.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/harry/Downloads/RNMapsGradleRepro/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/10.2.4/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="23.0.1"
-        sha1="6d0d5e86f5b7203834df01ed78ebfdd5cbf74d48">
-        <dex dex="/Users/harry/Downloads/RNMapsGradleRepro/android/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-maps-10.2.4_740cc611d6af756dfb14511382c1de6a6c9b0332.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/harry/Downloads/RNMapsGradleRepro/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.55.4/jars/libs/infer-annotations-4.0.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="23.0.1"
-        sha1="9809e90be788acdb479b2b44e2112f3295a03068">
-        <dex dex="/Users/harry/Downloads/RNMapsGradleRepro/android/app/build/intermediates/pre-dexed/debug/infer-annotations-4.0_318df62c4cf22c28fad85a62096f5c5ccfd60672.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/harry/Downloads/RNMapsGradleRepro/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-okhttp3/1.3.0/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="23.0.1"
-        sha1="c03c08c9934b23c8c09c803345ec51a74119127b">
-        <dex dex="/Users/harry/Downloads/RNMapsGradleRepro/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-okhttp3-1.3.0_db44a7073de5e976ddcfe9f8b5fe0cda2c9f4886.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/harry/Downloads/RNMapsGradleRepro/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.55.4/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="23.0.1"
-        sha1="e31331bdf6b5952badadbfc171f04b95c55d3b16">
-        <dex dex="/Users/harry/Downloads/RNMapsGradleRepro/android/app/build/intermediates/pre-dexed/debug/com.facebook.react-react-native-0.55.4_c5072256ae311ffc6cec7c2925fa19ed4e8fc1bc.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/harry/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.6.0/69edde9fc4b01c9fd51d25b83428837478c27254/okhttp-3.6.0.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="23.0.1"
-        sha1="69edde9fc4b01c9fd51d25b83428837478c27254">
-        <dex dex="/Users/harry/Downloads/RNMapsGradleRepro/android/app/build/intermediates/pre-dexed/debug/okhttp-3.6.0_a971ae6c61012461e1382ff8b18b4670a370359c.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/harry/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp-urlconnection/3.6.0/3f9b16b774f2c36cfd86dd2053d0b3059531dacc/okhttp-urlconnection-3.6.0.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="23.0.1"
-        sha1="3f9b16b774f2c36cfd86dd2053d0b3059531dacc">
-        <dex dex="/Users/harry/Downloads/RNMapsGradleRepro/android/app/build/intermediates/pre-dexed/debug/okhttp-urlconnection-3.6.0_fa4f1b0275f2387b99b8952b16af6443add1432d.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/harry/Downloads/RNMapsGradleRepro/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/jars/libs/internal_impl-24.0.0.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="23.0.1"
-        sha1="fcaf463e10e69c1923ccf1edeba3b4196d239e00">
-        <dex dex="/Users/harry/Downloads/RNMapsGradleRepro/android/app/build/intermediates/pre-dexed/debug/internal_impl-24.0.0_e7861a213967c5329cb58982e7ba3381c42a803e.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/harry/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.13.0/a9283170b7305c8d92d25aff02a6ab7e45d06cbe/okio-1.13.0.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="23.0.1"
-        sha1="a9283170b7305c8d92d25aff02a6ab7e45d06cbe">
-        <dex dex="/Users/harry/Downloads/RNMapsGradleRepro/android/app/build/intermediates/pre-dexed/debug/okio-1.13.0_024b52d811fc3cf7c2b37ece5a87f8208b512932.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/harry/Downloads/RNMapsGradleRepro/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fresco/1.3.0/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="23.0.1"
-        sha1="fe85b87215e405f5917d40ae4960488ac9224b74">
-        <dex dex="/Users/harry/Downloads/RNMapsGradleRepro/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-fresco-1.3.0_949c11c2cd3ee9551bd2d7acdc948214dae99773.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/harry/Downloads/RNMapsGradleRepro/android/app/build/intermediates/exploded-aar/com.google.maps.android/android-maps-utils/0.5/jars/classes.jar"
+        jar="/Users/mos/Projects/ReactNative/react-native-maps-gradle-repro/android/app/build/intermediates/exploded-aar/com.google.maps.android/android-maps-utils/0.5/jars/classes.jar"
         jumboMode="false"
         optimize="true"
         revision="23.0.1"
         sha1="e41a052c714bf67f743c22ed74153422ad773f88">
-        <dex dex="/Users/harry/Downloads/RNMapsGradleRepro/android/app/build/intermediates/pre-dexed/debug/com.google.maps.android-android-maps-utils-0.5_07c3b93a3a7d8b60eebc393b517adaf5bc5f4f18.jar" />
+        <dex dex="/Users/mos/Projects/ReactNative/react-native-maps-gradle-repro/android/app/build/intermediates/pre-dexed/debug/com.google.maps.android-android-maps-utils-0.5_7d36a1cfeffdd9a177a30be626dbb182a3831e60.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="/Users/harry/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/24.0.0/support-annotations-24.0.0.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="23.0.1"
-        sha1="2943c74db6d4346ab8c6531adac91fa05c137c40">
-        <dex dex="/Users/harry/Downloads/RNMapsGradleRepro/android/app/build/intermediates/pre-dexed/debug/support-annotations-24.0.0_43b3357ae3814adf23e20bf862042b0081fbb6d9.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/harry/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-tasks/1.4.0/d85884acf6810a3bbbecb587f239005cbc846dc4/bolts-tasks-1.4.0.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="23.0.1"
-        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
-        <dex dex="/Users/harry/Downloads/RNMapsGradleRepro/android/app/build/intermediates/pre-dexed/debug/bolts-tasks-1.4.0_b61185b34745a837dc91551009c9d616a3df9856.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/harry/Downloads/RNMapsGradleRepro/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-base/1.3.0/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="23.0.1"
-        sha1="72128af126ddd7d6252da9357fe560d3abcdfb0c">
-        <dex dex="/Users/harry/Downloads/RNMapsGradleRepro/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-base-1.3.0_6182258b3c7ee9428976d8d2f1137a4e2ce66393.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/harry/.gradle/caches/modules-2/files-2.1/javax.inject/javax.inject/1/6975da39a7040257bd51d21a231b76c915872d38/javax.inject-1.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="23.0.1"
-        sha1="6975da39a7040257bd51d21a231b76c915872d38">
-        <dex dex="/Users/harry/Downloads/RNMapsGradleRepro/android/app/build/intermediates/pre-dexed/debug/javax.inject-1_f2c2de0f2212a1aacb4eeac4b212fd70030d94e6.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/harry/Downloads/RNMapsGradleRepro/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/10.2.4/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="23.0.1"
-        sha1="dd1d0d84da2cff18f741c63a9c3af7d9aa89fdd6">
-        <dex dex="/Users/harry/Downloads/RNMapsGradleRepro/android/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-base-10.2.4_6a433806ca57d5da53836a6c48f453a6ac9c9e51.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/harry/Downloads/RNMapsGradleRepro/android/app/build/intermediates/exploded-aar/RNMapsGradleRepro/react-native-maps/unspecified/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="23.0.1"
-        sha1="8819b1cc4f5ec7d944067eb874c2301b60a6b7f0">
-        <dex dex="/Users/harry/Downloads/RNMapsGradleRepro/android/app/build/intermediates/pre-dexed/debug/RNMapsGradleRepro-react-native-maps-unspecified_a57e46b103268c1ab555d862030ea0fdf2e58713.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/harry/Downloads/RNMapsGradleRepro/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fbcore/1.3.0/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="23.0.1"
-        sha1="37345de2ed2772f385eaeec37a9c2ff0fea99ad7">
-        <dex dex="/Users/harry/Downloads/RNMapsGradleRepro/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-fbcore-1.3.0_2172f47c2fc6bb52bce8e6885213f558327a98f1.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/harry/Downloads/RNMapsGradleRepro/android/app/build/intermediates/exploded-aar/com.facebook.fresco/drawee/1.3.0/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="23.0.1"
-        sha1="c65a2e39d54023bac3aef64a2f0cff89289c7ff6">
-        <dex dex="/Users/harry/Downloads/RNMapsGradleRepro/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-drawee-1.3.0_9682eba06aa9846e81936ebfe2c9f3abb473adb3.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/harry/Downloads/RNMapsGradleRepro/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/10.2.4/jars/classes.jar"
+        jar="/Users/mos/Projects/ReactNative/react-native-maps-gradle-repro/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/10.2.4/jars/classes.jar"
         jumboMode="false"
         optimize="true"
         revision="23.0.1"
         sha1="9ed08fab37c3a572da1d9ed2bf2e36c8d3e2bc48">
-        <dex dex="/Users/harry/Downloads/RNMapsGradleRepro/android/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-basement-10.2.4_fff53fcecca77264b55b931de14fc0955cf33e07.jar" />
+        <dex dex="/Users/mos/Projects/ReactNative/react-native-maps-gradle-repro/android/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-basement-10.2.4_623db68274b0aa02b306d3ed91880e851379bd22.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="/Users/harry/Downloads/RNMapsGradleRepro/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline/1.3.0/jars/classes.jar"
+        jar="/Users/mos/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/24.0.0/support-annotations-24.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="2943c74db6d4346ab8c6531adac91fa05c137c40">
+        <dex dex="/Users/mos/Projects/ReactNative/react-native-maps-gradle-repro/android/app/build/intermediates/pre-dexed/debug/support-annotations-24.0.0_1def3569b81814c9cbfa84d665b020f543db68ed.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mos/Projects/ReactNative/react-native-maps-gradle-repro/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/jars/libs/internal_impl-24.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="fcaf463e10e69c1923ccf1edeba3b4196d239e00">
+        <dex dex="/Users/mos/Projects/ReactNative/react-native-maps-gradle-repro/android/app/build/intermediates/pre-dexed/debug/internal_impl-24.0.0_715259a8151383b160f77054d8c6e3d7538cf1f0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mos/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.13.0/a9283170b7305c8d92d25aff02a6ab7e45d06cbe/okio-1.13.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="a9283170b7305c8d92d25aff02a6ab7e45d06cbe">
+        <dex dex="/Users/mos/Projects/ReactNative/react-native-maps-gradle-repro/android/app/build/intermediates/pre-dexed/debug/okio-1.13.0_7a580062443e74a7e5904804c434532bc08392ec.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mos/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.6.0/69edde9fc4b01c9fd51d25b83428837478c27254/okhttp-3.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="69edde9fc4b01c9fd51d25b83428837478c27254">
+        <dex dex="/Users/mos/Projects/ReactNative/react-native-maps-gradle-repro/android/app/build/intermediates/pre-dexed/debug/okhttp-3.6.0_96d991c2a9186ef4bb33ce94c6ac8e8664d48463.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mos/Projects/ReactNative/react-native-maps-gradle-repro/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.55.4/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="e31331bdf6b5952badadbfc171f04b95c55d3b16">
+        <dex dex="/Users/mos/Projects/ReactNative/react-native-maps-gradle-repro/android/app/build/intermediates/pre-dexed/debug/com.facebook.react-react-native-0.55.4_6d52846c046206ffe11d37bdcef99dcde7f969c6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mos/Projects/ReactNative/react-native-maps-gradle-repro/android/app/build/intermediates/exploded-aar/RNMapsGradleRepro/react-native-maps/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="02696f41093552dad3ca5eb3ba147d3929726dfc">
+        <dex dex="/Users/mos/Projects/ReactNative/react-native-maps-gradle-repro/android/app/build/intermediates/pre-dexed/debug/RNMapsGradleRepro-react-native-maps-unspecified_c5e85ae2f995eb4967545463629e1292b13a9974.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mos/Projects/ReactNative/react-native-maps-gradle-repro/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/10.2.4/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="5803db663655ef5cb38c6bcb17ba326fdb9edfbd">
+        <dex dex="/Users/mos/Projects/ReactNative/react-native-maps-gradle-repro/android/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-tasks-10.2.4_c345089b0544b375696da00ed3496da29adbbb65.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mos/Projects/ReactNative/react-native-maps-gradle-repro/android/app/build/intermediates/exploded-aar/com.facebook.fresco/drawee/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c65a2e39d54023bac3aef64a2f0cff89289c7ff6">
+        <dex dex="/Users/mos/Projects/ReactNative/react-native-maps-gradle-repro/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-drawee-1.3.0_02bf99e4a1841e7cd9a6ac3cce6fdd8b08388c54.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mos/Projects/ReactNative/react-native-maps-gradle-repro/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-okhttp3/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c03c08c9934b23c8c09c803345ec51a74119127b">
+        <dex dex="/Users/mos/Projects/ReactNative/react-native-maps-gradle-repro/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-okhttp3-1.3.0_6c0a3a00b7a2cd53b7566cd9776406a18cb68400.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mos/Projects/ReactNative/react-native-maps-gradle-repro/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/10.2.4/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="dd1d0d84da2cff18f741c63a9c3af7d9aa89fdd6">
+        <dex dex="/Users/mos/Projects/ReactNative/react-native-maps-gradle-repro/android/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-base-10.2.4_5d48a6a30f3d3b65f132e29fb5950a9012451fd3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mos/Projects/ReactNative/react-native-maps-gradle-repro/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.55.4/jars/libs/infer-annotations-4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="9809e90be788acdb479b2b44e2112f3295a03068">
+        <dex dex="/Users/mos/Projects/ReactNative/react-native-maps-gradle-repro/android/app/build/intermediates/pre-dexed/debug/infer-annotations-4.0_f3825d2b5cd52589e365d83fed399c3eb5021e9e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mos/Projects/ReactNative/react-native-maps-gradle-repro/android/app/build/intermediates/exploded-aar/com.facebook.fbui.textlayoutbuilder/textlayoutbuilder/1.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f90b593491e4044903f0bbf68dc3fa2790b151b9">
+        <dex dex="/Users/mos/Projects/ReactNative/react-native-maps-gradle-repro/android/app/build/intermediates/pre-dexed/debug/com.facebook.fbui.textlayoutbuilder-textlayoutbuilder-1.0.0_b5f37eba8f77bf896bd51dae379dc09347aca6d5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mos/Projects/ReactNative/react-native-maps-gradle-repro/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fbcore/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="37345de2ed2772f385eaeec37a9c2ff0fea99ad7">
+        <dex dex="/Users/mos/Projects/ReactNative/react-native-maps-gradle-repro/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-fbcore-1.3.0_4662647777f3aab77563db688cbebe8b06316b69.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mos/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp-urlconnection/3.6.0/3f9b16b774f2c36cfd86dd2053d0b3059531dacc/okhttp-urlconnection-3.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="3f9b16b774f2c36cfd86dd2053d0b3059531dacc">
+        <dex dex="/Users/mos/Projects/ReactNative/react-native-maps-gradle-repro/android/app/build/intermediates/pre-dexed/debug/okhttp-urlconnection-3.6.0_475c311707a4f05a85c81180b8b1ee934e3db094.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mos/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/3.0.0/5871fb60dc68d67da54a663c3fd636a10a532948/jsr305-3.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="5871fb60dc68d67da54a663c3fd636a10a532948">
+        <dex dex="/Users/mos/Projects/ReactNative/react-native-maps-gradle-repro/android/app/build/intermediates/pre-dexed/debug/jsr305-3.0.0_e61cf2d3f7b81acdc80f518ab18a87970c7886c7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mos/Projects/ReactNative/react-native-maps-gradle-repro/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/10.2.4/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="6d0d5e86f5b7203834df01ed78ebfdd5cbf74d48">
+        <dex dex="/Users/mos/Projects/ReactNative/react-native-maps-gradle-repro/android/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-maps-10.2.4_e85726fff9418a0b3b70512977a159daea9ca77d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mos/Projects/ReactNative/react-native-maps-gradle-repro/android/app/build/intermediates/exploded-aar/com.facebook.soloader/soloader/0.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="8f615bca00639150c9eb6175d4b5471193f70794">
+        <dex dex="/Users/mos/Projects/ReactNative/react-native-maps-gradle-repro/android/app/build/intermediates/pre-dexed/debug/com.facebook.soloader-soloader-0.1.0_db008ee36f07b5911016a82b534c8eaeb978bc87.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mos/.gradle/caches/modules-2/files-2.1/javax.inject/javax.inject/1/6975da39a7040257bd51d21a231b76c915872d38/javax.inject-1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="/Users/mos/Projects/ReactNative/react-native-maps-gradle-repro/android/app/build/intermediates/pre-dexed/debug/javax.inject-1_d09f7acab0a03efd6169b22c869d549c61c7d73d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mos/Projects/ReactNative/react-native-maps-gradle-repro/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-base/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="72128af126ddd7d6252da9357fe560d3abcdfb0c">
+        <dex dex="/Users/mos/Projects/ReactNative/react-native-maps-gradle-repro/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-base-1.3.0_3012ac3524f30ea08254fb18d2ce5840b49436f3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mos/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-tasks/1.4.0/d85884acf6810a3bbbecb587f239005cbc846dc4/bolts-tasks-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="/Users/mos/Projects/ReactNative/react-native-maps-gradle-repro/android/app/build/intermediates/pre-dexed/debug/bolts-tasks-1.4.0_62c6b8d4ef338e46057dc053f27ef517a7552572.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mos/.gradle/caches/modules-2/files-2.1/com.facebook.fbui.textlayoutbuilder/staticlayout-proxy/1.0/f162442a19fff13995fbd51ba414d9ee05579080/staticlayout-proxy-1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f162442a19fff13995fbd51ba414d9ee05579080">
+        <dex dex="/Users/mos/Projects/ReactNative/react-native-maps-gradle-repro/android/app/build/intermediates/pre-dexed/debug/staticlayout-proxy-1.0_880edf7450ca8140bd021b00b3de0b2240ae5a18.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mos/Projects/ReactNative/react-native-maps-gradle-repro/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="2f7e6e2dad1bccaf68a8820820adc6c0d5b96d37">
+        <dex dex="/Users/mos/Projects/ReactNative/react-native-maps-gradle-repro/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-24.0.0_b6458dca489b242f07ac5f744a2ce2faed31cdf5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mos/Projects/ReactNative/react-native-maps-gradle-repro/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline/1.3.0/jars/classes.jar"
         jumboMode="false"
         optimize="true"
         revision="23.0.1"
         sha1="48c7f54c2515a2312d3a4481d10c43fbb807f3af">
-        <dex dex="/Users/harry/Downloads/RNMapsGradleRepro/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-1.3.0_478cd5f442b125ee7ddd29bd4268c530aed1cbd7.jar" />
+        <dex dex="/Users/mos/Projects/ReactNative/react-native-maps-gradle-repro/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-1.3.0_a68ebba3e47d7d54271542d80169c2bb7d34bc3d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mos/Projects/ReactNative/react-native-maps-gradle-repro/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="/Users/mos/Projects/ReactNative/react-native-maps-gradle-repro/android/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.0.1_be0817d2882bb985e427d097bdcf0de57abf1287.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mos/Projects/ReactNative/react-native-maps-gradle-repro/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fresco/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="fe85b87215e405f5917d40ae4960488ac9224b74">
+        <dex dex="/Users/mos/Projects/ReactNative/react-native-maps-gradle-repro/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-fresco-1.3.0_6d64e7890b62dbb33ee02020f78100aad271af46.jar" />
     </item>
 
 </items>
